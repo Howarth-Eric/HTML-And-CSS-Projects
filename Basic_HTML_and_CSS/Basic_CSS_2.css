@@ -1,0 +1,14 @@
+p
+{
+	color: darkslateblue;
+	background: lightslategray;
+	font-weight: bold;
+	text-align: center;
+}
+h1
+{
+  color: blue;
+  font-weight: bold;
+  text-align: right;
+  text-shadow: 2px 2px #00ff00;
+}

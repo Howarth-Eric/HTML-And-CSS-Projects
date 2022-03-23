@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>HTML Study Guide 2</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<style>
+			p {color:green;}
+		</style>
+		<p>
+			This paragraph is written in red utilizing style.
+		</p>
+		<div style="color: purple">
+			<h2>Your div heading here</h2>
+			<p>Your div paragraph here.</p>
+		</div>
+	</body>
+</html>
